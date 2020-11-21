@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C45480C8BA93D7B26F8394A /* Pods_chargingSpeed_chargingSpeedUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E24134485D7C82D497BED5FF /* Pods_chargingSpeed_chargingSpeedUITests.framework */; };
 		40DECB362569AFE500B510DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DECB352569AFE500B510DB /* AppDelegate.swift */; };
 		40DECB382569AFE500B510DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DECB372569AFE500B510DB /* SceneDelegate.swift */; };
 		40DECB3A2569AFE500B510DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DECB392569AFE500B510DB /* ViewController.swift */; };
@@ -15,6 +16,8 @@
 		40DECB422569AFF000B510DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40DECB402569AFF000B510DB /* LaunchScreen.storyboard */; };
 		40DECB4D2569AFF000B510DB /* chargingSpeedTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DECB4C2569AFF000B510DB /* chargingSpeedTests.swift */; };
 		40DECB582569AFF000B510DB /* chargingSpeedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DECB572569AFF000B510DB /* chargingSpeedUITests.swift */; };
+		51EE0F7C9A6224925F9B65C4 /* Pods_chargingSpeedTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDFA47CE22D462692D2A8D6F /* Pods_chargingSpeedTests.framework */; };
+		6E8C88DC7C05E81FAA96F960 /* Pods_chargingSpeed.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F91382A2AF88904C1EF1FBB /* Pods_chargingSpeed.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +38,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		012586D14CD79012ABE31B6F /* Pods-chargingSpeedTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chargingSpeedTests.debug.xcconfig"; path = "Target Support Files/Pods-chargingSpeedTests/Pods-chargingSpeedTests.debug.xcconfig"; sourceTree = "<group>"; };
+		0F206594166EA42FF0F4016A /* Pods-chargingSpeed.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chargingSpeed.debug.xcconfig"; path = "Target Support Files/Pods-chargingSpeed/Pods-chargingSpeed.debug.xcconfig"; sourceTree = "<group>"; };
+		182670CE9726667C89D2E65F /* Pods-chargingSpeed-chargingSpeedUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chargingSpeed-chargingSpeedUITests.debug.xcconfig"; path = "Target Support Files/Pods-chargingSpeed-chargingSpeedUITests/Pods-chargingSpeed-chargingSpeedUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		371564E80719231956B25F93 /* Pods-chargingSpeed-chargingSpeedUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chargingSpeed-chargingSpeedUITests.release.xcconfig"; path = "Target Support Files/Pods-chargingSpeed-chargingSpeedUITests/Pods-chargingSpeed-chargingSpeedUITests.release.xcconfig"; sourceTree = "<group>"; };
 		40DECB322569AFE500B510DB /* chargingSpeed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chargingSpeed.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40DECB352569AFE500B510DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		40DECB372569AFE500B510DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +56,11 @@
 		40DECB532569AFF000B510DB /* chargingSpeedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chargingSpeedUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40DECB572569AFF000B510DB /* chargingSpeedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chargingSpeedUITests.swift; sourceTree = "<group>"; };
 		40DECB592569AFF000B510DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F91382A2AF88904C1EF1FBB /* Pods_chargingSpeed.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_chargingSpeed.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		97C408278A39AB2FD5ACF6D6 /* Pods-chargingSpeed.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chargingSpeed.release.xcconfig"; path = "Target Support Files/Pods-chargingSpeed/Pods-chargingSpeed.release.xcconfig"; sourceTree = "<group>"; };
+		BDFA47CE22D462692D2A8D6F /* Pods_chargingSpeedTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_chargingSpeedTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC299AE4342A9FA7960292A9 /* Pods-chargingSpeedTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chargingSpeedTests.release.xcconfig"; path = "Target Support Files/Pods-chargingSpeedTests/Pods-chargingSpeedTests.release.xcconfig"; sourceTree = "<group>"; };
+		E24134485D7C82D497BED5FF /* Pods_chargingSpeed_chargingSpeedUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_chargingSpeed_chargingSpeedUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E8C88DC7C05E81FAA96F960 /* Pods_chargingSpeed.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51EE0F7C9A6224925F9B65C4 /* Pods_chargingSpeedTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C45480C8BA93D7B26F8394A /* Pods_chargingSpeed_chargingSpeedUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +98,8 @@
 				40DECB4B2569AFF000B510DB /* chargingSpeedTests */,
 				40DECB562569AFF000B510DB /* chargingSpeedUITests */,
 				40DECB332569AFE500B510DB /* Products */,
+				4C2099805C7EE9575CE232BE /* Pods */,
+				7EB656B2042F68D503B9DA75 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +145,30 @@
 			path = chargingSpeedUITests;
 			sourceTree = "<group>";
 		};
+		4C2099805C7EE9575CE232BE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0F206594166EA42FF0F4016A /* Pods-chargingSpeed.debug.xcconfig */,
+				97C408278A39AB2FD5ACF6D6 /* Pods-chargingSpeed.release.xcconfig */,
+				182670CE9726667C89D2E65F /* Pods-chargingSpeed-chargingSpeedUITests.debug.xcconfig */,
+				371564E80719231956B25F93 /* Pods-chargingSpeed-chargingSpeedUITests.release.xcconfig */,
+				012586D14CD79012ABE31B6F /* Pods-chargingSpeedTests.debug.xcconfig */,
+				CC299AE4342A9FA7960292A9 /* Pods-chargingSpeedTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		7EB656B2042F68D503B9DA75 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8F91382A2AF88904C1EF1FBB /* Pods_chargingSpeed.framework */,
+				E24134485D7C82D497BED5FF /* Pods_chargingSpeed_chargingSpeedUITests.framework */,
+				BDFA47CE22D462692D2A8D6F /* Pods_chargingSpeedTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,6 +176,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 40DECB5C2569AFF000B510DB /* Build configuration list for PBXNativeTarget "chargingSpeed" */;
 			buildPhases = (
+				A64D420D99A9EFB1E33D4E21 /* [CP] Check Pods Manifest.lock */,
 				40DECB2E2569AFE500B510DB /* Sources */,
 				40DECB2F2569AFE500B510DB /* Frameworks */,
 				40DECB302569AFE500B510DB /* Resources */,
@@ -152,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 40DECB5F2569AFF000B510DB /* Build configuration list for PBXNativeTarget "chargingSpeedTests" */;
 			buildPhases = (
+				56D3B54C3C81A23B1AF7BDE9 /* [CP] Check Pods Manifest.lock */,
 				40DECB442569AFF000B510DB /* Sources */,
 				40DECB452569AFF000B510DB /* Frameworks */,
 				40DECB462569AFF000B510DB /* Resources */,
@@ -170,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 40DECB622569AFF000B510DB /* Build configuration list for PBXNativeTarget "chargingSpeedUITests" */;
 			buildPhases = (
+				CA07A3CBD01EDC3AC4DE8A6A /* [CP] Check Pods Manifest.lock */,
 				40DECB4F2569AFF000B510DB /* Sources */,
 				40DECB502569AFF000B510DB /* Frameworks */,
 				40DECB512569AFF000B510DB /* Resources */,
@@ -252,6 +296,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		56D3B54C3C81A23B1AF7BDE9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-chargingSpeedTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A64D420D99A9EFB1E33D4E21 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-chargingSpeed-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CA07A3CBD01EDC3AC4DE8A6A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-chargingSpeed-chargingSpeedUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		40DECB2E2569AFE500B510DB /* Sources */ = {
@@ -433,6 +546,7 @@
 		};
 		40DECB5D2569AFF000B510DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F206594166EA42FF0F4016A /* Pods-chargingSpeed.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -451,6 +565,7 @@
 		};
 		40DECB5E2569AFF000B510DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97C408278A39AB2FD5ACF6D6 /* Pods-chargingSpeed.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -469,6 +584,7 @@
 		};
 		40DECB602569AFF000B510DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 012586D14CD79012ABE31B6F /* Pods-chargingSpeedTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -490,6 +606,7 @@
 		};
 		40DECB612569AFF000B510DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC299AE4342A9FA7960292A9 /* Pods-chargingSpeedTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -511,6 +628,7 @@
 		};
 		40DECB632569AFF000B510DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 182670CE9726667C89D2E65F /* Pods-chargingSpeed-chargingSpeedUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -530,6 +648,7 @@
 		};
 		40DECB642569AFF000B510DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 371564E80719231956B25F93 /* Pods-chargingSpeed-chargingSpeedUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

@@ -1,0 +1,6 @@
+framework module Pods_chargingSpeed_chargingSpeedUITests {
+  umbrella header "Pods-chargingSpeed-chargingSpeedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
