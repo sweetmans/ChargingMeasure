@@ -3,11 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict/>
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>chargingSpeed.xcscheme_^#shared#^_</key>
+		<key>40DECB312569AFE500B510DB</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40DECB472569AFF000B510DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40DECB522569AFF000B510DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
